@@ -9,3 +9,7 @@ Start with this README.
 ## Requirements
 
 A text editor is enough to follow this example.
+
+## License
+
+This example is provided for demonstration.
